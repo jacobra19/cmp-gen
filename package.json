@@ -1,0 +1,19 @@
+{
+    "name": "cmp-gen",
+    "version": "0.1.0",
+    "description": "React component scaffolder",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jacobra19/cmp-gen.git"
+    },
+    "author": "Yakov Rakhamimov <jacobra19@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jacobra19/cmp-gen/issues"
+    },
+    "homepage": "https://github.com/jacobra19/cmp-gen#readme"
+}
