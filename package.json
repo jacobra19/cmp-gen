@@ -3,6 +3,10 @@
     "version": "0.1.0",
     "description": "React component scaffolder",
     "main": "index.js",
+    "type": "module",
+    "bin": {
+        "cmp-gen": "./index.js"
+    },
     "scripts": {
         "test": "test"
     },
